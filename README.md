@@ -1,3 +1,5 @@
+INFO USED FOR THE TABLE
+
 Rows
 
 Terrestrial planets
